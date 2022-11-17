@@ -8,7 +8,7 @@ title: Academic # Website name
 baseURL: 'https://subhadeeprakshit.netlify.app/' # Website URL
 
 ############################
-## LANGUAGE
+## LANGUAGE 
 ############################
 
 defaultContentLanguage: en
