@@ -13,10 +13,11 @@ email: ""
 first_name: Subhadeep
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Rakshit
+- Biogeochemical cycling
+- Field works
+- Reactive transport modeling
+- Oceanography
+- Data analysis
 organizations:
 - name: Dalhousie University
   url: https://www.dal.ca/
@@ -44,8 +45,8 @@ superuser: true
 title: Subhadeep Rakshit
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Subhadeep Rakshit is a final year PhD student of Chemical Oceanography at Dalhousie University. His reasearch project includes the study of oxygen and nutrient cycle in water column and sediment at a seasonally hypoxic coastal basin using field observation and numerical modeling. Please look into the Research section for details.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
