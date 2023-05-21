@@ -45,7 +45,7 @@ superuser: true
 title: Subhadeep Rakshit
 ---
 
-Subhadeep Rakshit is a final year PhD student of Chemical Oceanography at Dalhousie University. His reasearch project includes the study of oxygen and nutrient cycle in water column and sediment at a seasonally hypoxic coastal basin using field observation and numerical modeling. Please look into the Research section for details.
+I'm a final year PhD student of Chemical Oceanography at Dalhousie University. My reasearch project includes the study of oxygen and nutrient cycle in water column and sediment at a seasonally hypoxic coastal basin using field observation and numerical modeling. Please look into the Research section for more details.
 
 
 
