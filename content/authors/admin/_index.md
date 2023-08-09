@@ -13,7 +13,7 @@ email: ""
 first_name: Subhadeep
 highlight_name: true
 interests:
-- Biogeochemical cycling
+- Biogeochemical cycles
 - Field works
 - Reactive transport modeling
 - Oceanography
@@ -45,7 +45,7 @@ superuser: true
 title: Subhadeep Rakshit
 ---
 
-I'm a final year PhD student of Chemical Oceanography at Dalhousie University. My reasearch project includes the study of oxygen and nutrient cycle in water column and sediment at a seasonally hypoxic coastal basin using field observation and numerical reaction transport modeling. Please look into the Research section for more details.
+I'm a final year PhD student of Chemical Oceanography at Dalhousie University. My reasearch project includes the study of oxygen and nutrient cycle in water column and sediment at a seasonally hypoxic coastal basin using field observations and numerical reactive transport modeling. Please look into the Research section for more details.
 
 
 
